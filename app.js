@@ -2,8 +2,8 @@
 
 const cartas =[
     {
-        nome:"Fantasma",
-        imagem: "./assets/fantasminhas.png",
+        nome:"Gato",
+        imagem: "./assets/gato.jfif",
         stats:{
         ataque:2,
         defesa:3,
@@ -11,8 +11,8 @@ const cartas =[
         }
     },
     {
-        nome:"Aberração",
-        imagem: "./assets/cães.png",
+        nome:"Coelho",
+        imagem: "./assets/coelho.jfif",
         stats:{
         ataque:6,
         defesa:4,
@@ -20,8 +20,8 @@ const cartas =[
         }
     },
     {
-        nome: "Mudkip",
-        imagem: "./assets/asas.png",
+        nome: "Cachorro",
+        imagem: "./assets/cachorro.jpg",
         stats:{
         ataque: 4,
         defesa: 6,
